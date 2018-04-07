@@ -5,7 +5,7 @@ using namespace cv::ml;
 using namespace cv;
 using namespace std;
 
-string target_pathName = "9.png"; // ←需要识别的图片名
+string target_pathName = "9.png"; // enter the name of the picture
 string pathName = "database.png";
 
 int SZ = 20;
