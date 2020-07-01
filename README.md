@@ -1,6 +1,4 @@
-# RoboMaster-Machine-Vision
-Handwritten-digits recognition using C++ code
-
+# Handwritten-digits recognition
 
 "database.png" provides 5000 handwritten digits for the program to learn. 
 
